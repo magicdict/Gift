@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="GBK" ?>
+<Kp>
+    <Version>2.0</Version>
+    <Fpxx>
+        <Zsl>1</Zsl>
+        <Fpsj>
+            <Fp>
+                <Djh>01</Djh>
+                <Gfmc>@Company@</Gfmc>
+                <Gfsh>@TaxCode@</Gfsh>
+                <Gfyhzh>@BankAccount@</Gfyhzh>
+                <Gfdzdh>@TelAddr@</Gfdzdh>
+                <Bz></Bz>
+                <Fhr>米菁菁</Fhr>
+                <Skr>陈志玲</Skr>
+                <Spbmbbh>33.0</Spbmbbh>
+                <Hsbz>0</Hsbz>
+                <Sgbz>0</Sgbz>
+                <Spxx>
+@RecipeDetails@
+                </Spxx>
+            </Fp>
+        </Fpsj>
+    </Fpxx>
+</Kp>                
